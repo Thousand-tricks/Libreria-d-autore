@@ -2,6 +2,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 ---
+#Status
+
+Ancora in fase di sviluppo || Work in progress
+
+---
 
 #CARATTERISTICHE PRINCIPALI
 
